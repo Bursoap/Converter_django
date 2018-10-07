@@ -1,0 +1,24 @@
+#legend {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#error_row {
+    margin-top: -15px;
+}
+
+.invalid-feedback {
+    padding-left: 10px;
+}
+
+#button_container {
+    display: flex;
+    align-items: center;
+}
+
+#btn1 {
+    border-radius: 10px;
+}
+
